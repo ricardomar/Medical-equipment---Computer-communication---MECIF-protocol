@@ -15,7 +15,13 @@
 
 - The software tool is used to demonstrate the implementation of several messages of the MECIF protocol of the Philips Medical Systems CMS (Component Monitoring System), displaying the answers of the medical equipment. Videos demonstrating the software tool in operation are presented next: 
 
+- [Demo video 01](https://youtu.be/YPAmYJ98v9k)
+
 [![alt text](https://img.youtube.com/vi/YPAmYJ98v9k/0.jpg)](https://youtu.be/YPAmYJ98v9k)
+
+
+
+- [Demo video 02](https://youtu.be/B6JtPIZxQLo)
 
 [![alt text](https://img.youtube.com/vi/B6JtPIZxQLo/0.jpg)](https://youtu.be/B6JtPIZxQLo)
 

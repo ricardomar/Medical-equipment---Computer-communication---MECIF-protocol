@@ -1,4 +1,5 @@
 # Medical equipment - Computer communication - MECIF protocol
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570613.svg)](https://doi.org/10.5281/zenodo.4570613)
 
 
 ## Objectives:
@@ -27,4 +28,4 @@
 
 
 
-- Software tool developed in collaboration with Joao Duarte and Edite Figueiras during the Medical Informatics course.
+- Software tool developed by Ricardo Martins, João Duarte and Edite Figueiras during the Medical Informatics course as Biomedical Engineering students (2007/2008).
